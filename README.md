@@ -8,8 +8,8 @@
 
 Git хранит историю в привязке к имени пользователя и email. 
 Чтобы задать имя пользователя и email необходимо выполнить следующие команды:
-***git config --global user.name*** *"Vasya Pupkin"*
-***git config --global user.email*** *vasya@localhost*
+* ***git config --global user.name*** *"Vasya Pupkin"*
+* ***git config --global user.email*** *vasya@localhost*
 
 ## «Резервная копия» проекта.
 
